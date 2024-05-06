@@ -33,6 +33,23 @@
    
 ![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/MisaMiranda?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=blue) 
 
+</div>
+
+
+### Studying in this moment:
+<div align="left"> 
+<img align="left" height="84" width="84" src="https://github.com/MisaMiranda/MisaMiranda/assets/128997429/21f34cb6-cbba-45b3-844c-27564dd02f59">
+
+<img align="left" height="80" width="80" src="https://github.com/MisaMiranda/MisaMiranda/assets/128997429/16a4e1a3-ff7c-4fe9-b2e2-d384b734df24">
+
+<img align="left"  height="80" width="80" src="https://github.com/MisaMiranda/MisaMiranda/assets/128997429/ff1a0117-2026-45e6-8891-40c59c57da51">
+
+<img align="left"  height="80" width="80" src="https://github.com/MisaMiranda/MisaMiranda/assets/128997429/b325fd78-d743-4df5-9925-600f7fb56e45">
+
+<img align="left"  height="80" width="80" src="https://github.com/MisaMiranda/MisaMiranda/assets/128997429/1dc3c1d0-8d38-408c-bbbf-598ad21d50c6">
+
+
+</div>
 
 
 
