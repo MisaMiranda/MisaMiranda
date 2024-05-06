@@ -29,7 +29,9 @@
 
 </div>
 
-
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/MisaMiranda?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=blue) 
 
 
 
